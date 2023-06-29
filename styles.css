@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+  body {
+      font-family: Arial, sans-serif;
+    }
+    
+    img {
+      max-width: 200px;
+      border-radius: 50%;
+    }
+    
+    h1 {
+      color: #333;
+    }
+    
+    ul {
+      list-style-type: disc;
+      padding-left: 20px;
+    }
+    
+    #skills, #projects {
+      margin-bottom: 20px;
+    }
